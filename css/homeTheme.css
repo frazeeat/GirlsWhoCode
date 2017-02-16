@@ -2,6 +2,9 @@
   margin: 0 auto;
   background:url(../img/group.jpg);
   background-size: auto 100%;
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;              /* optional, center the image */
 }
 .hovereffect {
   width: 100%;
