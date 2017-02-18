@@ -1,3 +1,6 @@
 .card img {
   margin: auto;
 }
+.no-margin{
+margin:0px;
+}
