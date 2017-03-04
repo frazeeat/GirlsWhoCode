@@ -84,3 +84,9 @@
   -webkit-transform: translate3d(0,0,0);
   transform: translate3d(0,0,0);
 }
+.hovereffect > img{
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+	margin-top: 15px;
+}
