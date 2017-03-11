@@ -4,3 +4,5 @@
 .no-margin{
 margin:0px;
 }
+
+.card .card-block {max-height:350px;overflow:auto;}
